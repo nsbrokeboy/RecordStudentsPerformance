@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecordStudentsPerformance.PL", "RecordStudentsPerformance.PL\RecordStudentsPerformance.PL.csproj", "{34C5F981-7AB5-48A7-BCDD-084C141790DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecordStudentsPerformance.DAL", "RecordStudentsPerformance.DAL\RecordStudentsPerformance.DAL.csproj", "{20B8F7E4-74FB-4E38-87B5-639EC9402EF5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecordStudentsPerformance.BLL", "RecordStudentsPerformance.BLL\RecordStudentsPerformance.BLL.csproj", "{746E5834-20A3-46CA-A954-DC3D0ADFC466}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34C5F981-7AB5-48A7-BCDD-084C141790DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34C5F981-7AB5-48A7-BCDD-084C141790DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34C5F981-7AB5-48A7-BCDD-084C141790DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34C5F981-7AB5-48A7-BCDD-084C141790DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20B8F7E4-74FB-4E38-87B5-639EC9402EF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20B8F7E4-74FB-4E38-87B5-639EC9402EF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20B8F7E4-74FB-4E38-87B5-639EC9402EF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20B8F7E4-74FB-4E38-87B5-639EC9402EF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{746E5834-20A3-46CA-A954-DC3D0ADFC466}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{746E5834-20A3-46CA-A954-DC3D0ADFC466}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{746E5834-20A3-46CA-A954-DC3D0ADFC466}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{746E5834-20A3-46CA-A954-DC3D0ADFC466}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
